@@ -1,2 +1,3 @@
-my_array = []
-puts my_array
+def my_array
+  my_new_array= []
+end
