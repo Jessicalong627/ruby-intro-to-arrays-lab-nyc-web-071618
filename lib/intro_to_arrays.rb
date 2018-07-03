@@ -1,2 +1,2 @@
 my_array = []
-puts my__array
+puts my_array
