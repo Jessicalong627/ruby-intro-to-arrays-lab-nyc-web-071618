@@ -1,2 +1,2 @@
-my_new_array = []
-puts my_new_array
+my_array = []
+puts my__array
